@@ -6,4 +6,4 @@ Repositório com TPCs da Unidade Curricular Representação e Processamento do C
 ## Aluno
 - **Nome:** Bernardo Amado Pereira da Costa
 - **ID:** PG53699
-- **Foto:** ![Fotografia do aluno](foto.jpeg)
+- **Foto:** ![Fotografia do aluno](foto.JPEG)
