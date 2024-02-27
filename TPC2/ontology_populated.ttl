@@ -1,0 +1,3675 @@
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I1> rdf:type :Instrumento ;
+    :temID "I1" ;
+    :temNome "Clarinete" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I2> rdf:type :Instrumento ;
+    :temID "I2" ;
+    :temNome "Contrabaixo" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I3> rdf:type :Instrumento ;
+    :temID "I3" ;
+    :temNome "Corne Inglês" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I4> rdf:type :Instrumento ;
+    :temID "I4" ;
+    :temNome "Eufónio" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I5> rdf:type :Instrumento ;
+    :temID "I5" ;
+    :temNome "Fagote" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I6> rdf:type :Instrumento ;
+    :temID "I6" ;
+    :temNome "Flauta" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I7> rdf:type :Instrumento ;
+    :temID "I7" ;
+    :temNome "Fliscorne" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I8> rdf:type :Instrumento ;
+    :temID "I8" ;
+    :temNome "Guitarra" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I9> rdf:type :Instrumento ;
+    :temID "I9" ;
+    :temNome "Harpa" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I10> rdf:type :Instrumento ;
+    :temID "I10" ;
+    :temNome "Oboé" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I11> rdf:type :Instrumento ;
+    :temID "I11" ;
+    :temNome "Orgão" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I12> rdf:type :Instrumento ;
+    :temID "I12" ;
+    :temNome "Percussão" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I13> rdf:type :Instrumento ;
+    :temID "I13" ;
+    :temNome "Piano" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I14> rdf:type :Instrumento ;
+    :temID "I14" ;
+    :temNome "Saxofone" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I15> rdf:type :Instrumento ;
+    :temID "I15" ;
+    :temNome "Trombone" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I16> rdf:type :Instrumento ;
+    :temID "I16" ;
+    :temNome "Trompa" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I17> rdf:type :Instrumento ;
+    :temID "I17" ;
+    :temNome "Trompete" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I18> rdf:type :Instrumento ;
+    :temID "I18" ;
+    :temNome "Tuba" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I19> rdf:type :Instrumento ;
+    :temID "I19" ;
+    :temNome "Violoncelo" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I20> rdf:type :Instrumento ;
+    :temID "I20" ;
+    :temNome "Violino" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I21> rdf:type :Instrumento ;
+    :temID "I21" ;
+    :temNome "Viola de Arco" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Instrumento/I22> rdf:type :Instrumento ;
+    :temID "I22" ;
+    :temNome "Bandolim" .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB1> rdf:type :Curso ;
+    :temID "CB1" ;
+    :temNome "Curso Básico de Clarinete" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I1', '#text': 'Clarinete'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS23> rdf:type :Curso ;
+    :temID "CS23" ;
+    :temNome "Curso Supletivo de Clarinete" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I1', '#text': 'Clarinete'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB2> rdf:type :Curso ;
+    :temID "CB2" ;
+    :temNome "Curso Básico de Contrabaixo" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I2', '#text': 'Contrabaixo'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS24> rdf:type :Curso ;
+    :temID "CS24" ;
+    :temNome "Curso Supletivo de Contrabaixo" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I2', '#text': 'Contrabaixo'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB3> rdf:type :Curso ;
+    :temID "CB3" ;
+    :temNome "Curso Básico de Corne Inglês" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I3', '#text': 'Corne Inglês'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS25> rdf:type :Curso ;
+    :temID "CS25" ;
+    :temNome "Curso Supletivo de Corne Inglês" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I3', '#text': 'Corne Inglês'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB4> rdf:type :Curso ;
+    :temID "CB4" ;
+    :temNome "Curso Básico de Eufónio" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I4', '#text': 'Eufónio'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS26> rdf:type :Curso ;
+    :temID "CS26" ;
+    :temNome "Curso Supletivo de Eufónio" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I4', '#text': 'Eufónio'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB5> rdf:type :Curso ;
+    :temID "CB5" ;
+    :temNome "Curso Básico de Fagote" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I5', '#text': 'Fagote'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS27> rdf:type :Curso ;
+    :temID "CS27" ;
+    :temNome "Curso Supletivo de Fagote" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I5', '#text': 'Fagote'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB6> rdf:type :Curso ;
+    :temID "CB6" ;
+    :temNome "Curso Básico de Flauta" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I6', '#text': 'Flauta'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS28> rdf:type :Curso ;
+    :temID "CS28" ;
+    :temNome "Curso Supletivo de Flauta" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I6', '#text': 'Flauta'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB7> rdf:type :Curso ;
+    :temID "CB7" ;
+    :temNome "Curso Básico de Fliscorne" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I7', '#text': 'Fliscorne'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS29> rdf:type :Curso ;
+    :temID "CS29" ;
+    :temNome "Curso Supletivo de Fliscorne" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I7', '#text': 'Fliscorne'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB8> rdf:type :Curso ;
+    :temID "CB8" ;
+    :temNome "Curso Básico de Guitarra" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I8', '#text': 'Guitarra'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS30> rdf:type :Curso ;
+    :temID "CS30" ;
+    :temNome "Curso Supletivo de Guitarra" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I8', '#text': 'Guitarra'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB9> rdf:type :Curso ;
+    :temID "CB9" ;
+    :temNome "Curso Básico de Harpa" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I9', '#text': 'Harpa'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS31> rdf:type :Curso ;
+    :temID "CS31" ;
+    :temNome "Curso Supletivo de Harpa" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I9', '#text': 'Harpa'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB10> rdf:type :Curso ;
+    :temID "CB10" ;
+    :temNome "Curso Básico de Oboé" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I10', '#text': 'Oboé'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS32> rdf:type :Curso ;
+    :temID "CS32" ;
+    :temNome "Curso Supletivo de Oboé" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I10', '#text': 'Oboé'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB11> rdf:type :Curso ;
+    :temID "CB11" ;
+    :temNome "Curso Básico de Orgão" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I11', '#text': 'Orgão'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS33> rdf:type :Curso ;
+    :temID "CS33" ;
+    :temNome "Curso Supletivo de Orgão" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I11', '#text': 'Orgão'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB12> rdf:type :Curso ;
+    :temID "CB12" ;
+    :temNome "Curso Básico de Percussão" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I12', '#text': 'Percussão'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS34> rdf:type :Curso ;
+    :temID "CS34" ;
+    :temNome "Curso Supletivo de Percussão" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I12', '#text': 'Percussão'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB13> rdf:type :Curso ;
+    :temID "CB13" ;
+    :temNome "Curso Básico de Piano" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I13', '#text': 'Piano'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS35> rdf:type :Curso ;
+    :temID "CS35" ;
+    :temNome "Curso Supletivo de Piano" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I13', '#text': 'Piano'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB14> rdf:type :Curso ;
+    :temID "CB14" ;
+    :temNome "Curso Básico de Saxofone" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I14', '#text': 'Saxofone'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS36> rdf:type :Curso ;
+    :temID "CS36" ;
+    :temNome "Curso Supletivo de Saxofone" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I14', '#text': 'Saxofone'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB15> rdf:type :Curso ;
+    :temID "CB15" ;
+    :temNome "Curso Básico de Trombone" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I15', '#text': 'Trombone'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS37> rdf:type :Curso ;
+    :temID "CS37" ;
+    :temNome "Curso Supletivo de Trombone" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I15', '#text': 'Trombone'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB16> rdf:type :Curso ;
+    :temID "CB16" ;
+    :temNome "Curso Básico de Trompa" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I16', '#text': 'Trompa'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS38> rdf:type :Curso ;
+    :temID "CS38" ;
+    :temNome "Curso Supletivo de Trompa" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I16', '#text': 'Trompa'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB17> rdf:type :Curso ;
+    :temID "CB17" ;
+    :temNome "Curso Básico de Trompete" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I17', '#text': 'Trompete'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS39> rdf:type :Curso ;
+    :temID "CS39" ;
+    :temNome "Curso Supletivo de Trompete" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I17', '#text': 'Trompete'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB18> rdf:type :Curso ;
+    :temID "CB18" ;
+    :temNome "Curso Básico de Tuba" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I18', '#text': 'Tuba'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS40> rdf:type :Curso ;
+    :temID "CS40" ;
+    :temNome "Curso Supletivo de Tuba" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I18', '#text': 'Tuba'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB19> rdf:type :Curso ;
+    :temID "CB19" ;
+    :temNome "Curso Básico de Violoncelo" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I19', '#text': 'Violoncelo'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS41> rdf:type :Curso ;
+    :temID "CS41" ;
+    :temNome "Curso Supletivo de Violoncelo" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I19', '#text': 'Violoncelo'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB20> rdf:type :Curso ;
+    :temID "CB20" ;
+    :temNome "Curso Básico de Violino" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I20', '#text': 'Violino'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS42> rdf:type :Curso ;
+    :temID "CS42" ;
+    :temNome "Curso Supletivo de Violino" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I20', '#text': 'Violino'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB21> rdf:type :Curso ;
+    :temID "CB21" ;
+    :temNome "Curso Básico de Viola de Arco" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I21', '#text': 'Viola de Arco'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS43> rdf:type :Curso ;
+    :temID "CS43" ;
+    :temNome "Curso Supletivo de Viola de Arco" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I21', '#text': 'Viola de Arco'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CB22> rdf:type :Curso ;
+    :temID "CB22" ;
+    :temNome "Curso Básico de Bandolim" ;
+    :temDuracao "5"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I22', '#text': 'Bandolim'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Curso/CS44> rdf:type :Curso ;
+    :temID "CS44" ;
+    :temNome "Curso Supletivo de Bandolim" ;
+    :temDuracao "3"^^xsd:integer ;
+    :usaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/{'id': 'I22', '#text': 'Bandolim'}#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A1510> rdf:type :Aluno ;
+    :temID "A1510" ;
+    :temNome "ADEMAR FONTES DE MAGALHAES GONCALVES" ;
+    :temDataNascimento "1999-4-19"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32597> rdf:type :Aluno ;
+    :temID "A32597" ;
+    :temNome "ADERITO NELSON MIRANDA DE OLIVEIRA" ;
+    :temDataNascimento "2004-9-5"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36539> rdf:type :Aluno ;
+    :temID "A36539" ;
+    :temNome "ADMILSON CESAR ANDRADE RODRIGUES" ;
+    :temDataNascimento "2002-10-26"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38165> rdf:type :Aluno ;
+    :temID "A38165" ;
+    :temNome "AFONSO DELERUE ARRIAGA" ;
+    :temDataNascimento "1996-2-25"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38176> rdf:type :Aluno ;
+    :temID "A38176" ;
+    :temNome "AGOSTINHO MANUEL ALVES DA SILVA" ;
+    :temDataNascimento "2000-7-18"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38196> rdf:type :Aluno ;
+    :temID "A38196" ;
+    :temNome "ALEXANDRE COELHO CARVALHO" ;
+    :temDataNascimento "1997-12-7"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35271> rdf:type :Aluno ;
+    :temID "A35271" ;
+    :temNome "ALEXANDRE JORGE CAMELO FARIA" ;
+    :temDataNascimento "2002-12-20"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38193> rdf:type :Aluno ;
+    :temID "A38193" ;
+    :temNome "ALEXANDRE MANUEL PEREIRA DE MIRANDA PINTO" ;
+    :temDataNascimento "2001-2-2"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A18141> rdf:type :Aluno ;
+    :temID "A18141" ;
+    :temNome "ALEXANDRE MIGUEL DA COSTA FERREIRA DOS SANTOS" ;
+    :temDataNascimento "2001-6-23"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38218> rdf:type :Aluno ;
+    :temID "A38218" ;
+    :temNome "ALEXANDRINA MARIA FERREIRA LEMOS" ;
+    :temDataNascimento "2002-7-14"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36487> rdf:type :Aluno ;
+    :temID "A36487" ;
+    :temNome "ALI DOS REIS MOTA" ;
+    :temDataNascimento "1996-1-7"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35272> rdf:type :Aluno ;
+    :temID "A35272" ;
+    :temNome "ANA LUISA PARREIRA NUNES" ;
+    :temDataNascimento "1997-11-7"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27589> rdf:type :Aluno ;
+    :temID "A27589" ;
+    :temNome "ANA MARGARIDA FIDALGO PINHEIRO" ;
+    :temDataNascimento "2002-1-13"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A25073> rdf:type :Aluno ;
+    :temID "A25073" ;
+    :temNome "ANA MARGARIDA LIMA ALEM" ;
+    :temDataNascimento "2003-12-12"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38169> rdf:type :Aluno ;
+    :temID "A38169" ;
+    :temNome "ANDRE ABILIO NUNES ROCHA RODRIGUES" ;
+    :temDataNascimento "1999-6-5"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33822> rdf:type :Aluno ;
+    :temID "A33822" ;
+    :temNome "ANDRE FERNANDES MARTINS" ;
+    :temDataNascimento "2001-11-13"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38214> rdf:type :Aluno ;
+    :temID "A38214" ;
+    :temNome "ANDRE FILIPE DE SOUSA VIVEIROS" ;
+    :temDataNascimento "1997-2-14"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35274> rdf:type :Aluno ;
+    :temID "A35274" ;
+    :temNome "ANDRE FILIPE OLIVEIRA MARTINS" ;
+    :temDataNascimento "2003-7-20"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29871> rdf:type :Aluno ;
+    :temID "A29871" ;
+    :temNome "ANDRE LEITE FERREIRA" ;
+    :temDataNascimento "1997-8-1"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38215> rdf:type :Aluno ;
+    :temID "A38215" ;
+    :temNome "ANDRE RIBEIRO RODRIGUES" ;
+    :temDataNascimento "1998-5-28"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38117> rdf:type :Aluno ;
+    :temID "A38117" ;
+    :temNome "ANTONIO ANDRE MARQUES RIBEIRO" ;
+    :temDataNascimento "2002-2-20"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35277> rdf:type :Aluno ;
+    :temID "A35277" ;
+    :temNome "ANTONIO MANUEL MARTINS PINTO" ;
+    :temDataNascimento "2002-5-5"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35278> rdf:type :Aluno ;
+    :temID "A35278" ;
+    :temNome "ANTONIO MANUEL RODRIGUES FERNANDES" ;
+    :temDataNascimento "2001-3-13"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38138> rdf:type :Aluno ;
+    :temID "A38138" ;
+    :temNome "ANTONIO NUNO BACELAR MARTINS BARREIRO COVAS" ;
+    :temDataNascimento "1998-10-7"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35280> rdf:type :Aluno ;
+    :temID "A35280" ;
+    :temNome "ANTONIO RICARDO PEREIRA GONCALVES" ;
+    :temDataNascimento "1997-2-10"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33057> rdf:type :Aluno ;
+    :temID "A33057" ;
+    :temNome "ANTONIO RUI MIRANDA DE LEMOS" ;
+    :temDataNascimento "1999-7-5"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38143> rdf:type :Aluno ;
+    :temID "A38143" ;
+    :temNome "ANTONIO SERGIO MATOS SILVA" ;
+    :temDataNascimento "2000-1-9"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30166> rdf:type :Aluno ;
+    :temID "A30166" ;
+    :temNome "ANTONIO TIAGO MORGADO PEREIRA" ;
+    :temDataNascimento "2001-9-6"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36971> rdf:type :Aluno ;
+    :temID "A36971" ;
+    :temNome "AUGUSTO JORGE PEREIRA DA COSTA" ;
+    :temDataNascimento "2001-4-2"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38132> rdf:type :Aluno ;
+    :temID "A38132" ;
+    :temNome "AVELINO JOSE DA COSTA REGO" ;
+    :temDataNascimento "2002-4-6"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33140> rdf:type :Aluno ;
+    :temID "A33140" ;
+    :temNome "AVELINO RODRIGO ARAUJO SEMELHE DE SOUSA PINTO" ;
+    :temDataNascimento "2005-2-11"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33141> rdf:type :Aluno ;
+    :temID "A33141" ;
+    :temNome "BARBARA ALEXANDRA EUSEBIO FREITAS" ;
+    :temDataNascimento "1997-8-23"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33291> rdf:type :Aluno ;
+    :temID "A33291" ;
+    :temNome "BARBARA SOFIA ARAUJO DA SILVA" ;
+    :temDataNascimento "1996-9-28"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33142> rdf:type :Aluno ;
+    :temID "A33142" ;
+    :temNome "BRUNO CESAR PEREIRA DA SILVA" ;
+    :temDataNascimento "2004-11-16"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A20044> rdf:type :Aluno ;
+    :temID "A20044" ;
+    :temNome "BRUNO DE ALMEIDA RAMOS PEREIRA" ;
+    :temDataNascimento "1999-7-28"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35283> rdf:type :Aluno ;
+    :temID "A35283" ;
+    :temNome "BRUNO EDGAR BERNARDO TEIXEIRA" ;
+    :temDataNascimento "1999-2-22"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35284> rdf:type :Aluno ;
+    :temID "A35284" ;
+    :temNome "BRUNO EMANUEL TEIXEIRA DE CASTRO ARAUJO" ;
+    :temDataNascimento "2005-6-4"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38156> rdf:type :Aluno ;
+    :temID "A38156" ;
+    :temNome "BRUNO FILIPE DA COSTA HERMENEGILDO" ;
+    :temDataNascimento "2000-6-11"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35285> rdf:type :Aluno ;
+    :temID "A35285" ;
+    :temNome "BRUNO GABRIEL LEAL MACHADO DOS SANTOS" ;
+    :temDataNascimento "1999-4-14"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36422> rdf:type :Aluno ;
+    :temID "A36422" ;
+    :temNome "BRUNO JOSE DE MACEDO SOARES AMOR" ;
+    :temDataNascimento "1999-2-14"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33143> rdf:type :Aluno ;
+    :temID "A33143" ;
+    :temNome "BRUNO MIGUEL CAMPOS RODRIGUES" ;
+    :temDataNascimento "1997-3-20"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33145> rdf:type :Aluno ;
+    :temID "A33145" ;
+    :temNome "BRUNO MIGUEL FLORES DIAMANTINO" ;
+    :temDataNascimento "1997-6-20"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33146> rdf:type :Aluno ;
+    :temID "A33146" ;
+    :temNome "BRUNO MIGUEL MAGALHAES AZEVEDO" ;
+    :temDataNascimento "2003-11-15"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33148> rdf:type :Aluno ;
+    :temID "A33148" ;
+    :temNome "BRUNO MIGUEL TEIXEIRA PAIVA DE FARIA" ;
+    :temDataNascimento "1998-3-21"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38124> rdf:type :Aluno ;
+    :temID "A38124" ;
+    :temNome "BRUNO RICARDO CUNHA MAGALHAES" ;
+    :temDataNascimento "2000-1-21"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30176> rdf:type :Aluno ;
+    :temID "A30176" ;
+    :temNome "BRUNO RICARDO DUARTE MAGALHAES" ;
+    :temDataNascimento "1998-4-14"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35808> rdf:type :Aluno ;
+    :temID "A35808" ;
+    :temNome "CANDIDO MIGUEL REBELO BARROS" ;
+    :temDataNascimento "2002-11-11"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38126> rdf:type :Aluno ;
+    :temID "A38126" ;
+    :temNome "CARLOS ALFREDO MACIEIRA DE FARIA" ;
+    :temDataNascimento "2005-6-14"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33689> rdf:type :Aluno ;
+    :temID "A33689" ;
+    :temNome "CARLOS ANDRE BRITO RIBEIRO" ;
+    :temDataNascimento "2001-5-10"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38125> rdf:type :Aluno ;
+    :temID "A38125" ;
+    :temNome "CARLOS CESAR MADUREIRA ROMANO" ;
+    :temDataNascimento "2002-5-13"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A24654> rdf:type :Aluno ;
+    :temID "A24654" ;
+    :temNome "CARLOS DE SOUSA CABRAL BRANDAO" ;
+    :temDataNascimento "2005-11-2"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A20021> rdf:type :Aluno ;
+    :temID "A20021" ;
+    :temNome "CARLOS JOSE DA CUNHA RIBEIRO" ;
+    :temDataNascimento "1999-12-4"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35291> rdf:type :Aluno ;
+    :temID "A35291" ;
+    :temNome "CARLOS MIGUEL TAVARES LOPES" ;
+    :temDataNascimento "1998-6-17"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A34640> rdf:type :Aluno ;
+    :temID "A34640" ;
+    :temNome "CARLOS PRUDENCIO DO ESPIRITO CRISOSTOMO" ;
+    :temDataNascimento "2002-8-9"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38207> rdf:type :Aluno ;
+    :temID "A38207" ;
+    :temNome "CATARINA ISABEL DE OLIVEIRA MATEUS" ;
+    :temDataNascimento "2003-8-22"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32010> rdf:type :Aluno ;
+    :temID "A32010" ;
+    :temNome "CATARINA SOFIA MARTINHO LUIS" ;
+    :temDataNascimento "2005-9-1"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35052> rdf:type :Aluno ;
+    :temID "A35052" ;
+    :temNome "CESAR FILIPE DA CRUZ GOMES" ;
+    :temDataNascimento "1996-5-24"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35440> rdf:type :Aluno ;
+    :temID "A35440" ;
+    :temNome "DANIEL BARBOSA ALVES" ;
+    :temDataNascimento "2002-6-26"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32648> rdf:type :Aluno ;
+    :temID "A32648" ;
+    :temNome "DANIEL FILIPE PERES FERREIRA" ;
+    :temDataNascimento "2002-1-23"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33152> rdf:type :Aluno ;
+    :temID "A33152" ;
+    :temNome "DANIEL RICARDO DE CASTRO MENDES" ;
+    :temDataNascimento "2001-10-12"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38211> rdf:type :Aluno ;
+    :temID "A38211" ;
+    :temNome "DANIEL TORRES GONCALVES" ;
+    :temDataNascimento "2003-8-16"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38210> rdf:type :Aluno ;
+    :temID "A38210" ;
+    :temNome "DANIELA CRISTINA GARCIA TEIXEIRA" ;
+    :temDataNascimento "1998-7-10"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22854> rdf:type :Aluno ;
+    :temID "A22854" ;
+    :temNome "DAVI CARNEIRO PEREIRA" ;
+    :temDataNascimento "1999-3-10"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35293> rdf:type :Aluno ;
+    :temID "A35293" ;
+    :temNome "DAVID DANIEL CARDOSO DE OLIVEIRA" ;
+    :temDataNascimento "1999-11-22"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35294> rdf:type :Aluno ;
+    :temID "A35294" ;
+    :temNome "DIAMANTINO JOSE MADEIRA ABOBELEIRA" ;
+    :temDataNascimento "1996-11-20"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38166> rdf:type :Aluno ;
+    :temID "A38166" ;
+    :temNome "DIOGO FILIPE DA SILVA CARDOSO" ;
+    :temDataNascimento "2000-6-26"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38164> rdf:type :Aluno ;
+    :temID "A38164" ;
+    :temNome "DIOGO PAULO DA FONTE LAPA" ;
+    :temDataNascimento "2004-8-28"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38167> rdf:type :Aluno ;
+    :temID "A38167" ;
+    :temNome "DUARTE ALEXANDRE DA CUNHA ALVES" ;
+    :temDataNascimento "2002-7-20"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33155> rdf:type :Aluno ;
+    :temID "A33155" ;
+    :temNome "DUARTE FILIPE AFONSO CHAVES" ;
+    :temDataNascimento "2002-4-2"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35298> rdf:type :Aluno ;
+    :temID "A35298" ;
+    :temNome "DUARTE NUNO MALHEIRO DE BARREIRO" ;
+    :temDataNascimento "1999-5-10"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38190> rdf:type :Aluno ;
+    :temID "A38190" ;
+    :temNome "ELISEU CARNEIRO DOS SANTOS ROCHA" ;
+    :temDataNascimento "2005-3-14"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35300> rdf:type :Aluno ;
+    :temID "A35300" ;
+    :temNome "EMANUEL CERDEIRA MESQUITA" ;
+    :temDataNascimento "2001-2-15"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30305> rdf:type :Aluno ;
+    :temID "A30305" ;
+    :temNome "EMANUEL JOSE ANTUNES FERNANDES" ;
+    :temDataNascimento "2004-4-15"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36757> rdf:type :Aluno ;
+    :temID "A36757" ;
+    :temNome "ERNESTO MANUEL DA SILVA LOPES" ;
+    :temDataNascimento "2002-6-6"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33157> rdf:type :Aluno ;
+    :temID "A33157" ;
+    :temNome "EURICO MANUEL FOLGADO AFONSO" ;
+    :temDataNascimento "2005-1-23"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27608> rdf:type :Aluno ;
+    :temID "A27608" ;
+    :temNome "EURICO MANUEL TELES MORAIS" ;
+    :temDataNascimento "1999-5-12"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35302> rdf:type :Aluno ;
+    :temID "A35302" ;
+    :temNome "FABIO ROBERTO LEITE MATOS" ;
+    :temDataNascimento "1996-8-19"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33158> rdf:type :Aluno ;
+    :temID "A33158" ;
+    :temNome "FAUSTO MIGUEL PACHECO FARIA VIANA" ;
+    :temDataNascimento "2003-1-11"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35465> rdf:type :Aluno ;
+    :temID "A35465" ;
+    :temNome "FERNANDO ANTONIO ALVES LOPES" ;
+    :temDataNascimento "1999-2-21"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33858> rdf:type :Aluno ;
+    :temID "A33858" ;
+    :temNome "FERNANDO JORGE PINTO LIMA" ;
+    :temDataNascimento "1999-7-13"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A26737> rdf:type :Aluno ;
+    :temID "A26737" ;
+    :temNome "FERNANDO MIGUEL SOUSA LISBOA" ;
+    :temDataNascimento "2005-7-26"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30187> rdf:type :Aluno ;
+    :temID "A30187" ;
+    :temNome "FERNANDO SERGIO MADALENO PEREIRA" ;
+    :temDataNascimento "2005-1-26"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35303> rdf:type :Aluno ;
+    :temID "A35303" ;
+    :temNome "FILIPE ANTONIO GONCALVES DA SILVA" ;
+    :temDataNascimento "1999-5-8"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36445> rdf:type :Aluno ;
+    :temID "A36445" ;
+    :temNome "FILIPE BARROSO DE OLIVEIRA" ;
+    :temDataNascimento "2001-9-25"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38595> rdf:type :Aluno ;
+    :temID "A38595" ;
+    :temNome "FILIPE GONCALO GONCALVES DA COSTA" ;
+    :temDataNascimento "1999-4-2"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38187> rdf:type :Aluno ;
+    :temID "A38187" ;
+    :temNome "FLAVIO MIGUEL XAVIER FERREIRA" ;
+    :temDataNascimento "1996-6-19"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36424> rdf:type :Aluno ;
+    :temID "A36424" ;
+    :temNome "FRANCISCO EURICO PINTO CORTEZ MARTINS LEITE" ;
+    :temDataNascimento "2001-5-14"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35308> rdf:type :Aluno ;
+    :temID "A35308" ;
+    :temNome "FRANCISCO JOSE MAIO LEITE" ;
+    :temDataNascimento "1996-6-2"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35443> rdf:type :Aluno ;
+    :temID "A35443" ;
+    :temNome "FRANCISCO JOSE MARTINS GOMES" ;
+    :temDataNascimento "2002-4-6"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27616> rdf:type :Aluno ;
+    :temID "A27616" ;
+    :temNome "FRANCISCO JOSE PRATA DA PAZ" ;
+    :temDataNascimento "1996-7-3"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38163> rdf:type :Aluno ;
+    :temID "A38163" ;
+    :temNome "GASPAR AUGUSTO SIMOES CORREIA VIEIRA LEITE" ;
+    :temDataNascimento "1996-4-23"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39288> rdf:type :Aluno ;
+    :temID "A39288" ;
+    :temNome "GENILDO SOARES NEVES" ;
+    :temDataNascimento "2005-2-22"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33162> rdf:type :Aluno ;
+    :temID "A33162" ;
+    :temNome "GONCALO LEAL MACHADO RIBEIRO PINTO" ;
+    :temDataNascimento "2003-3-25"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35311> rdf:type :Aluno ;
+    :temID "A35311" ;
+    :temNome "GONCALO LUIS MALHEIRO DE OLIVEIRA NOVAIS MACHADO" ;
+    :temDataNascimento "2005-3-5"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39508> rdf:type :Aluno ;
+    :temID "A39508" ;
+    :temNome "GONCALO MANUEL CORREIA CALHEIROS" ;
+    :temDataNascimento "2005-8-15"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33163> rdf:type :Aluno ;
+    :temID "A33163" ;
+    :temNome "GONCALO PAULO CUNHA CARDOSO FERREIRA" ;
+    :temDataNascimento "2004-4-6"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38174> rdf:type :Aluno ;
+    :temID "A38174" ;
+    :temNome "GUILHERME REIS BARBOSA" ;
+    :temDataNascimento "2003-12-14"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33165> rdf:type :Aluno ;
+    :temID "A33165" ;
+    :temNome "HELDER ARTUR PEIXOTO MAGALHAES" ;
+    :temDataNascimento "2004-7-5"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35312> rdf:type :Aluno ;
+    :temID "A35312" ;
+    :temNome "HELDER FILIPE DE CASTRO MARQUES" ;
+    :temDataNascimento "2002-4-11"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38185> rdf:type :Aluno ;
+    :temID "A38185" ;
+    :temNome "HELDER JOSE FERREIRA BARBOSA RIBEIRO" ;
+    :temDataNascimento "1996-6-21"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39503> rdf:type :Aluno ;
+    :temID "A39503" ;
+    :temNome "HELDER NUNO MARTINS DO VALE TOME" ;
+    :temDataNascimento "2005-3-4"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36758> rdf:type :Aluno ;
+    :temID "A36758" ;
+    :temNome "HUGO ALEXANDRE PEREIRA TRIUNFANTE MARTINS" ;
+    :temDataNascimento "2003-4-20"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38197> rdf:type :Aluno ;
+    :temID "A38197" ;
+    :temNome "HUGO ALEXANDRE SOBREIRO DE SEIXAS" ;
+    :temDataNascimento "2004-8-6"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33272> rdf:type :Aluno ;
+    :temID "A33272" ;
+    :temNome "HUGO ANDRE PEIXOTO FREITAS PEREIRA" ;
+    :temDataNascimento "1998-2-21"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35315> rdf:type :Aluno ;
+    :temID "A35315" ;
+    :temNome "HUGO EMANUEL QUEIROS TEIXEIRA DA SILVA" ;
+    :temDataNascimento "2004-1-28"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38202> rdf:type :Aluno ;
+    :temID "A38202" ;
+    :temNome "HUGO FILIPE NASCIMENTO PEREIRA" ;
+    :temDataNascimento "2000-4-4"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35316> rdf:type :Aluno ;
+    :temID "A35316" ;
+    :temNome "HUGO GUILHERME DOS SANTOS RIGOR" ;
+    :temDataNascimento "2001-2-21"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35395> rdf:type :Aluno ;
+    :temID "A35395" ;
+    :temNome "HUGO JOSE FERNANDES CARVALHO" ;
+    :temDataNascimento "1997-6-25"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38204> rdf:type :Aluno ;
+    :temID "A38204" ;
+    :temNome "HUGO JOSE PEREIRA PACHECO" ;
+    :temDataNascimento "1997-10-2"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A26208> rdf:type :Aluno ;
+    :temID "A26208" ;
+    :temNome "IGOR MURILO DE ALMEIDA" ;
+    :temDataNascimento "1998-7-8"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33703> rdf:type :Aluno ;
+    :temID "A33703" ;
+    :temNome "ISABEL MARIA ROSENDO CARDOSO" ;
+    :temDataNascimento "1996-10-28"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38134> rdf:type :Aluno ;
+    :temID "A38134" ;
+    :temNome "IVO MANUEL DANTAS MONTEIRO" ;
+    :temDataNascimento "2002-6-10"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35318> rdf:type :Aluno ;
+    :temID "A35318" ;
+    :temNome "JASON PETER COSTA" ;
+    :temDataNascimento "2004-4-25"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33168> rdf:type :Aluno ;
+    :temID "A33168" ;
+    :temNome "JOANA SOUTO DE MIRANDA GONZALEZ" ;
+    :temDataNascimento "2000-10-13"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35319> rdf:type :Aluno ;
+    :temID "A35319" ;
+    :temNome "JOAO ALEXANDRE VAZ OLIVEIRA" ;
+    :temDataNascimento "2004-6-12"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35320> rdf:type :Aluno ;
+    :temID "A35320" ;
+    :temNome "JOAO ANTONIO LAVRADOR VILANOVA" ;
+    :temDataNascimento "2001-2-9"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32753> rdf:type :Aluno ;
+    :temID "A32753" ;
+    :temNome "JOAO ARNALDO FREITAS DE ABREU" ;
+    :temDataNascimento "1998-11-26"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38180> rdf:type :Aluno ;
+    :temID "A38180" ;
+    :temNome "JOAO CARLOS AZEVEDO SALGADO GUIMARAES" ;
+    :temDataNascimento "2005-11-9"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35321> rdf:type :Aluno ;
+    :temID "A35321" ;
+    :temNome "JOAO FILIPE FONTES MACHADO" ;
+    :temDataNascimento "1996-3-27"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35322> rdf:type :Aluno ;
+    :temID "A35322" ;
+    :temNome "JOAO GILBERTO LAMARAO DA SILVA" ;
+    :temDataNascimento "2005-5-17"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38133> rdf:type :Aluno ;
+    :temID "A38133" ;
+    :temNome "JOAO GONCALO BOTICA RIBEIRO DA SILVA" ;
+    :temDataNascimento "1998-3-7"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30201> rdf:type :Aluno ;
+    :temID "A30201" ;
+    :temNome "JOAO GUILHERME RABACA CAMPOS" ;
+    :temDataNascimento "2005-3-5"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38123> rdf:type :Aluno ;
+    :temID "A38123" ;
+    :temNome "JOAO MANUEL DA SILVA SANCHES" ;
+    :temDataNascimento "1998-7-26"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A34935> rdf:type :Aluno ;
+    :temID "A34935" ;
+    :temNome "JOAO MANUEL DE CAMPOS GONCALVES" ;
+    :temDataNascimento "2003-2-17"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35323> rdf:type :Aluno ;
+    :temID "A35323" ;
+    :temNome "JOAO MARIO MENDES DE OLIVEIRA" ;
+    :temDataNascimento "1998-1-16"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33172> rdf:type :Aluno ;
+    :temID "A33172" ;
+    :temNome "JOAO MIGUEL RAPOSO DA SILVA MARQUES" ;
+    :temDataNascimento "1999-2-11"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38191> rdf:type :Aluno ;
+    :temID "A38191" ;
+    :temNome "JOAO MIGUEL RODRIGUES BATISTA" ;
+    :temDataNascimento "1997-3-21"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38186> rdf:type :Aluno ;
+    :temID "A38186" ;
+    :temNome "JOAO NUNO MARQUES DOS SANTOS" ;
+    :temDataNascimento "2003-5-3"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39750> rdf:type :Aluno ;
+    :temID "A39750" ;
+    :temNome "JOAO PAULO BARBOSA OLIVEIRA" ;
+    :temDataNascimento "1997-3-5"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22662> rdf:type :Aluno ;
+    :temID "A22662" ;
+    :temNome "JOAO PAULO CARRAPATO ALMEIDA" ;
+    :temDataNascimento "2005-10-12"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35325> rdf:type :Aluno ;
+    :temID "A35325" ;
+    :temNome "JOAO PAULO COELHO GOMES TEIXEIRA E OLIVEIRA" ;
+    :temDataNascimento "2004-9-25"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A17855> rdf:type :Aluno ;
+    :temID "A17855" ;
+    :temNome "JOAO PAULO DA SILVA CASTRO" ;
+    :temDataNascimento "2004-9-1"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38175> rdf:type :Aluno ;
+    :temID "A38175" ;
+    :temNome "JOAO PAULO DA SILVA GOMES" ;
+    :temDataNascimento "2001-5-26"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33173> rdf:type :Aluno ;
+    :temID "A33173" ;
+    :temNome "JOAO PAULO MINHAVA PEIXOTO ASSIS CARDOSO" ;
+    :temDataNascimento "2003-1-2"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39622> rdf:type :Aluno ;
+    :temID "A39622" ;
+    :temNome "JOAO PAULO SILVA DE VASCONCELOS GUSMAO" ;
+    :temDataNascimento "2002-1-6"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33175> rdf:type :Aluno ;
+    :temID "A33175" ;
+    :temNome "JOAO PEDRO BACAO COELHO DE BARROS" ;
+    :temDataNascimento "2001-10-25"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A18938> rdf:type :Aluno ;
+    :temID "A18938" ;
+    :temNome "JOAO PEDRO BRITO ANTUNES GUIMARAES" ;
+    :temDataNascimento "2003-10-28"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33176> rdf:type :Aluno ;
+    :temID "A33176" ;
+    :temNome "JOAO PEDRO GOMES FERNANDES" ;
+    :temDataNascimento "2004-6-26"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35832> rdf:type :Aluno ;
+    :temID "A35832" ;
+    :temNome "JOAO PEDRO GONCALVES DE CARVALHO" ;
+    :temDataNascimento "2002-5-1"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38170> rdf:type :Aluno ;
+    :temID "A38170" ;
+    :temNome "JOAO PEDRO OLIVEIRA PEREIRA" ;
+    :temDataNascimento "2003-4-19"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36425> rdf:type :Aluno ;
+    :temID "A36425" ;
+    :temNome "JOAO PEDRO ROBALO ESPINHO PEREIRA DA SILVA" ;
+    :temDataNascimento "2002-6-6"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38212> rdf:type :Aluno ;
+    :temID "A38212" ;
+    :temNome "JOAO PEDRO SILVA ARAUJO" ;
+    :temDataNascimento "1998-5-3"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38220> rdf:type :Aluno ;
+    :temID "A38220" ;
+    :temNome "JOAO RAFAEL FERREIRA VELOSO" ;
+    :temDataNascimento "1999-11-4"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38199> rdf:type :Aluno ;
+    :temID "A38199" ;
+    :temNome "JOAO RICARDO DA SILVA CAMPOS" ;
+    :temDataNascimento "1999-3-26"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38198> rdf:type :Aluno ;
+    :temID "A38198" ;
+    :temNome "JOAQUIM MACHADO GONCALVES SAMPAIO" ;
+    :temDataNascimento "2001-10-15"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35328> rdf:type :Aluno ;
+    :temID "A35328" ;
+    :temNome "JOEL ARAUJO ROCHA" ;
+    :temDataNascimento "1997-4-17"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38157> rdf:type :Aluno ;
+    :temID "A38157" ;
+    :temNome "JOEL HUMBERTO DA SILVA BEIRAO DO VALE CARVALHO" ;
+    :temDataNascimento "2003-7-15"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A20464> rdf:type :Aluno ;
+    :temID "A20464" ;
+    :temNome "JOEL TITO DA CRUZ PINTO" ;
+    :temDataNascimento "2004-3-22"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38139> rdf:type :Aluno ;
+    :temID "A38139" ;
+    :temNome "JORGE ALBERTO FARIA MIRANDA" ;
+    :temDataNascimento "1997-4-7"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35330> rdf:type :Aluno ;
+    :temID "A35330" ;
+    :temNome "JORGE ANDRE ALVES DE MELO" ;
+    :temDataNascimento "2002-8-24"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A16409> rdf:type :Aluno ;
+    :temID "A16409" ;
+    :temNome "JORGE MANUEL DE CASTRO MAIO GOMES DA COSTA" ;
+    :temDataNascimento "2005-2-18"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33709> rdf:type :Aluno ;
+    :temID "A33709" ;
+    :temNome "JORGE MANUEL VIANA RIBEIRO MARTINS FORTE" ;
+    :temDataNascimento "2005-8-2"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30209> rdf:type :Aluno ;
+    :temID "A30209" ;
+    :temNome "JORGE MIGUEL GONCALVES DA SILVA" ;
+    :temDataNascimento "1997-4-26"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A21008> rdf:type :Aluno ;
+    :temID "A21008" ;
+    :temNome "JORGE MIGUEL SILVA MELO PEREIRA" ;
+    :temDataNascimento "1998-6-11"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35331> rdf:type :Aluno ;
+    :temID "A35331" ;
+    :temNome "JOSE ALEXANDRE DE CARVALHO AMORIM" ;
+    :temDataNascimento "2003-3-20"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38189> rdf:type :Aluno ;
+    :temID "A38189" ;
+    :temNome "JOSE ANTONIO DA CUNHA E SILVA" ;
+    :temDataNascimento "1998-8-3"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A19705> rdf:type :Aluno ;
+    :temID "A19705" ;
+    :temNome "JOSE ANTONIO PEREIRA CIBRAO" ;
+    :temDataNascimento "2004-1-12"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30211> rdf:type :Aluno ;
+    :temID "A30211" ;
+    :temNome "JOSE CARLOS CARVALHO DOS SANTOS" ;
+    :temDataNascimento "1997-6-3"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30212> rdf:type :Aluno ;
+    :temID "A30212" ;
+    :temNome "JOSE CARLOS DA ROCHA MACHADO" ;
+    :temDataNascimento "2001-4-6"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36960> rdf:type :Aluno ;
+    :temID "A36960" ;
+    :temNome "JOSE CARLOS DE FREITAS FONTAO" ;
+    :temDataNascimento "1999-9-13"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A34434> rdf:type :Aluno ;
+    :temID "A34434" ;
+    :temNome "JOSE CARLOS MARQUES DIAS" ;
+    :temDataNascimento "2004-7-1"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35332> rdf:type :Aluno ;
+    :temID "A35332" ;
+    :temNome "JOSE DIOGO RIBEIRO LIZ DE ALMEIDA" ;
+    :temDataNascimento "2001-11-5"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39506> rdf:type :Aluno ;
+    :temID "A39506" ;
+    :temNome "JOSE EDUARDO CORREIA CALHEIROS" ;
+    :temDataNascimento "1999-6-1"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36761> rdf:type :Aluno ;
+    :temID "A36761" ;
+    :temNome "JOSE EDUARDO TEIXEIRA RITO" ;
+    :temDataNascimento "2001-12-11"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38224> rdf:type :Aluno ;
+    :temID "A38224" ;
+    :temNome "JOSE FILIPE HENRIQUES VILAS BOAS" ;
+    :temDataNascimento "1999-2-12"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35333> rdf:type :Aluno ;
+    :temID "A35333" ;
+    :temNome "JOSE FILIPE QUEIJO FERNANDES" ;
+    :temDataNascimento "1999-11-9"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A23916> rdf:type :Aluno ;
+    :temID "A23916" ;
+    :temNome "JOSE GRACA DA NOBREGA" ;
+    :temDataNascimento "1997-9-4"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38222> rdf:type :Aluno ;
+    :temID "A38222" ;
+    :temNome "JOSE LUIS CARDOSO SILVA" ;
+    :temDataNascimento "2002-8-4"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38205> rdf:type :Aluno ;
+    :temID "A38205" ;
+    :temNome "JOSE LUIS LOPES DE ARAUJO" ;
+    :temDataNascimento "1996-2-19"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27629> rdf:type :Aluno ;
+    :temID "A27629" ;
+    :temNome "JOSE LUIS PINTO MONTEIRO ALVES" ;
+    :temDataNascimento "2002-8-25"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38206> rdf:type :Aluno ;
+    :temID "A38206" ;
+    :temNome "JOSE MANUEL ARAUJO SOARES" ;
+    :temDataNascimento "2005-4-11"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35398> rdf:type :Aluno ;
+    :temID "A35398" ;
+    :temNome "JOSE MANUEL ESTEVES" ;
+    :temDataNascimento "2005-10-19"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32480> rdf:type :Aluno ;
+    :temID "A32480" ;
+    :temNome "JOSE MANUEL LIMA GANDARELA" ;
+    :temDataNascimento "1999-5-10"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30213> rdf:type :Aluno ;
+    :temID "A30213" ;
+    :temNome "JOSE MANUEL LOUREIRO DE AZEVEDO TEIXEIRA" ;
+    :temDataNascimento "2001-1-4"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22670> rdf:type :Aluno ;
+    :temID "A22670" ;
+    :temNome "JOSE MANUEL TEIXEIRA FERNANDES" ;
+    :temDataNascimento "1999-10-28"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33182> rdf:type :Aluno ;
+    :temID "A33182" ;
+    :temNome "JOSE MIGUEL DOS SANTOS FERRAZ" ;
+    :temDataNascimento "2005-8-14"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A28722> rdf:type :Aluno ;
+    :temID "A28722" ;
+    :temNome "JOSE MIGUEL FERREIRA PONTES" ;
+    :temDataNascimento "2003-10-26"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38121> rdf:type :Aluno ;
+    :temID "A38121" ;
+    :temNome "JOSE MIGUEL RODRIGUES OLIVEIRA DA SILVA" ;
+    :temDataNascimento "2003-1-26"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35334> rdf:type :Aluno ;
+    :temID "A35334" ;
+    :temNome "JOSE MIGUEL SILVA PEIXOTO DE CARVALHO" ;
+    :temDataNascimento "2001-9-20"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38136> rdf:type :Aluno ;
+    :temID "A38136" ;
+    :temNome "JOSE NUNO MARTINS PINTO FRAGA" ;
+    :temDataNascimento "1998-6-7"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35335> rdf:type :Aluno ;
+    :temID "A35335" ;
+    :temNome "JOSE PAULO CARNEIRO DE MELO MAMEDE" ;
+    :temDataNascimento "1996-9-26"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35337> rdf:type :Aluno ;
+    :temID "A35337" ;
+    :temNome "JOSE PEDRO DOMINGUES" ;
+    :temDataNascimento "2003-12-11"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38142> rdf:type :Aluno ;
+    :temID "A38142" ;
+    :temNome "JOSE PEDRO FARIA E VASCONCELOS CORREIA" ;
+    :temDataNascimento "1996-12-15"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38140> rdf:type :Aluno ;
+    :temID "A38140" ;
+    :temNome "JOSE PEDRO MACHADO GOMES" ;
+    :temDataNascimento "2002-9-5"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38137> rdf:type :Aluno ;
+    :temID "A38137" ;
+    :temNome "JOSE PEDRO RIBEIRO DA ARAUJO" ;
+    :temDataNascimento "2000-2-23"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38128> rdf:type :Aluno ;
+    :temID "A38128" ;
+    :temNome "JOSE PEDRO RODRIGUES MAGALHAES" ;
+    :temDataNascimento "2005-6-13"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30214> rdf:type :Aluno ;
+    :temID "A30214" ;
+    :temNome "JOSE PEDRO SILVA DE OLIVEIRA CARVALHO" ;
+    :temDataNascimento "2001-3-15"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A23508> rdf:type :Aluno ;
+    :temID "A23508" ;
+    :temNome "JOSE ROMEU FERNANDES PINTO" ;
+    :temDataNascimento "1998-4-7"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38155> rdf:type :Aluno ;
+    :temID "A38155" ;
+    :temNome "JULIO ANDRE RODRIGUES ARAUJO" ;
+    :temDataNascimento "1996-9-16"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35843> rdf:type :Aluno ;
+    :temID "A35843" ;
+    :temNome "LARA SOFIA ALPOIM MIRANDA" ;
+    :temDataNascimento "2002-3-9"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38150> rdf:type :Aluno ;
+    :temID "A38150" ;
+    :temNome "LEANDRO EMANUEL DA SILVA SALGADO BARBOSA" ;
+    :temDataNascimento "1999-4-27"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A34035> rdf:type :Aluno ;
+    :temID "A34035" ;
+    :temNome "LEONOR ISABEL CONSTANTINO CAEIRO BOGA" ;
+    :temDataNascimento "2005-2-27"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A24839> rdf:type :Aluno ;
+    :temID "A24839" ;
+    :temNome "LEONOR ISABEL FERREIRA DE MELO OSORIO ARAUJO" ;
+    :temDataNascimento "2003-12-16"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35339> rdf:type :Aluno ;
+    :temID "A35339" ;
+    :temNome "LIDIA NOGUEIRA LARANJEIRA" ;
+    :temDataNascimento "2004-6-23"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35340> rdf:type :Aluno ;
+    :temID "A35340" ;
+    :temNome "LILIANA SOLANGE SEQUEIRA HENRIQUES DE MACEDO" ;
+    :temDataNascimento "1999-2-22"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33650> rdf:type :Aluno ;
+    :temID "A33650" ;
+    :temNome "LUIS ANDRE DA CUNHA MARQUES" ;
+    :temDataNascimento "2000-7-24"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35342> rdf:type :Aluno ;
+    :temID "A35342" ;
+    :temNome "LUIS CARLOS GONCALO LEONARDO" ;
+    :temDataNascimento "2002-2-20"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38223> rdf:type :Aluno ;
+    :temID "A38223" ;
+    :temNome "LUIS DIOGO MONTEIRO DUARTE COUTO" ;
+    :temDataNascimento "1998-8-13"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39341> rdf:type :Aluno ;
+    :temID "A39341" ;
+    :temNome "LUIS FERNANDO ROMANEL RODRIGUES" ;
+    :temDataNascimento "2003-11-28"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39408> rdf:type :Aluno ;
+    :temID "A39408" ;
+    :temNome "LUIS FILIPE FARIA MONTEIRO CAPELO" ;
+    :temDataNascimento "2000-3-16"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33186> rdf:type :Aluno ;
+    :temID "A33186" ;
+    :temNome "LUIS FILIPE GAMA PAIS CABRAL" ;
+    :temDataNascimento "2002-8-10"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38219> rdf:type :Aluno ;
+    :temID "A38219" ;
+    :temNome "LUIS FILIPE PEREIRA GONCALVES" ;
+    :temDataNascimento "2005-11-4"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29631> rdf:type :Aluno ;
+    :temID "A29631" ;
+    :temNome "LUIS FILIPE RIBEIRO NOVAIS" ;
+    :temDataNascimento "2001-6-19"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39747> rdf:type :Aluno ;
+    :temID "A39747" ;
+    :temNome "LUIS PEDRO FERREIRA LEITE DOS SANTOS ALEIXO" ;
+    :temDataNascimento "2005-5-19"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33188> rdf:type :Aluno ;
+    :temID "A33188" ;
+    :temNome "LUIS PEDRO LOPES PEREIRA" ;
+    :temDataNascimento "2002-3-12"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38172> rdf:type :Aluno ;
+    :temID "A38172" ;
+    :temNome "LUIS TIAGO AFONSO MASCARENHAS" ;
+    :temDataNascimento "2000-2-21"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38168> rdf:type :Aluno ;
+    :temID "A38168" ;
+    :temNome "LUIZ ALBERTO DE CASTRO SANTOS" ;
+    :temDataNascimento "2005-8-2"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38254> rdf:type :Aluno ;
+    :temID "A38254" ;
+    :temNome "MANUEL DOMINGOS DE CARVALHO FELGUEIRAS DA SILVA SANTOS" ;
+    :temDataNascimento "2001-4-27"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30219> rdf:type :Aluno ;
+    :temID "A30219" ;
+    :temNome "MANUEL FERNANDO SOTO MAIOR FRANQUEIRA" ;
+    :temDataNascimento "2001-3-16"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35348> rdf:type :Aluno ;
+    :temID "A35348" ;
+    :temNome "MANUEL JOSE GOMES MEIRELES" ;
+    :temDataNascimento "2002-2-24"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27637> rdf:type :Aluno ;
+    :temID "A27637" ;
+    :temNome "MANUEL JOSE TORRES SOUSA DA CUNHA" ;
+    :temDataNascimento "1999-12-22"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29004> rdf:type :Aluno ;
+    :temID "A29004" ;
+    :temNome "MARANGAZE JOAQUIM MUNHEPE MULHANGA" ;
+    :temDataNascimento "1999-4-22"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35349> rdf:type :Aluno ;
+    :temID "A35349" ;
+    :temNome "MARCIA MARLENE DE ALMEIDA MARTINS" ;
+    :temDataNascimento "1997-1-26"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35350> rdf:type :Aluno ;
+    :temID "A35350" ;
+    :temNome "MARCIAL COELHO GOMES" ;
+    :temDataNascimento "1996-11-20"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39406> rdf:type :Aluno ;
+    :temID "A39406" ;
+    :temNome "MARCO ALEXANDRE AGUIAR VAZ" ;
+    :temDataNascimento "2003-6-22"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29011> rdf:type :Aluno ;
+    :temID "A29011" ;
+    :temNome "MARCO ALEXANDRE BARREIRA MEDEIROS TEIXEIRA" ;
+    :temDataNascimento "1998-12-22"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38178> rdf:type :Aluno ;
+    :temID "A38178" ;
+    :temNome "MARCO ALEXANDRE TEIXEIRA PALOS" ;
+    :temDataNascimento "1999-6-9"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38152> rdf:type :Aluno ;
+    :temID "A38152" ;
+    :temNome "MARCO ANTONIO SAMPAIO FREITAS DE CASTRO" ;
+    :temDataNascimento "2005-5-14"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38179> rdf:type :Aluno ;
+    :temID "A38179" ;
+    :temNome "MARCO ANTONIO TEIXEIRA MARTINS" ;
+    :temDataNascimento "2003-11-13"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22685> rdf:type :Aluno ;
+    :temID "A22685" ;
+    :temNome "MARCO FRANCISCO DA SILVA LIZARDO" ;
+    :temDataNascimento "2004-8-28"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22688> rdf:type :Aluno ;
+    :temID "A22688" ;
+    :temNome "MARCO RICARDO BARBOSA COELHO" ;
+    :temDataNascimento "2001-4-3"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36864> rdf:type :Aluno ;
+    :temID "A36864" ;
+    :temNome "MARIA BEATRIZ ALVES DE SA CAMPOS" ;
+    :temDataNascimento "2003-7-19"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38184> rdf:type :Aluno ;
+    :temID "A38184" ;
+    :temNome "MARIA CRISTINA CARNEIRO BARREIRA" ;
+    :temDataNascimento "2005-10-1"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A12753> rdf:type :Aluno ;
+    :temID "A12753" ;
+    :temNome "MARIA LUISA VILLAVERDE MACHADO FERNANDES NOVAIS" ;
+    :temDataNascimento "1998-3-8"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38161> rdf:type :Aluno ;
+    :temID "A38161" ;
+    :temNome "MARIANA PEREIRA NEVES" ;
+    :temDataNascimento "2002-6-24"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38171> rdf:type :Aluno ;
+    :temID "A38171" ;
+    :temNome "MARIO ANDRE PATRICIO TEIXEIRA JULIO" ;
+    :temDataNascimento "2005-12-22"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38194> rdf:type :Aluno ;
+    :temID "A38194" ;
+    :temNome "MARIO DA FONTE LAMEIRAS" ;
+    :temDataNascimento "1999-7-23"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A23544> rdf:type :Aluno ;
+    :temID "A23544" ;
+    :temNome "MARIO RUI ANUNCIACAO MONTEIRO" ;
+    :temDataNascimento "2000-3-12"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29048> rdf:type :Aluno ;
+    :temID "A29048" ;
+    :temNome "MARIO RUI RIBEIRO FIALHO DA CONCEICAO" ;
+    :temDataNascimento "1996-2-14"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36454> rdf:type :Aluno ;
+    :temID "A36454" ;
+    :temNome "MICHEL FERREIRA PINTO" ;
+    :temDataNascimento "1999-4-17"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35352> rdf:type :Aluno ;
+    :temID "A35352" ;
+    :temNome "MIGUEL AFONSO PIRES DA ROSA" ;
+    :temDataNascimento "2001-4-14"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38217> rdf:type :Aluno ;
+    :temID "A38217" ;
+    :temNome "MIGUEL ANGELO MARQUES DE MATOS" ;
+    :temDataNascimento "2001-4-13"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38209> rdf:type :Aluno ;
+    :temID "A38209" ;
+    :temNome "MIGUEL ANGELO PINTO MARQUES" ;
+    :temDataNascimento "2005-9-24"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30226> rdf:type :Aluno ;
+    :temID "A30226" ;
+    :temNome "MIGUEL ANGELO RIBEIRO DE SOUSA E SILVA" ;
+    :temDataNascimento "2002-3-12"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38221> rdf:type :Aluno ;
+    :temID "A38221" ;
+    :temNome "MIGUEL ANGELO VIVAS GOMES ALVES" ;
+    :temDataNascimento "1996-2-13"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A21432> rdf:type :Aluno ;
+    :temID "A21432" ;
+    :temNome "MIGUEL MANUEL GOMES RODRIGUES" ;
+    :temDataNascimento "2004-12-14"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39342> rdf:type :Aluno ;
+    :temID "A39342" ;
+    :temNome "MIGUEL PEDRO AMARAL FIGUEIREDO" ;
+    :temDataNascimento "2001-11-27"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32608> rdf:type :Aluno ;
+    :temID "A32608" ;
+    :temNome "MIGUEL PEDRO DE ALMEIDA FERREIRA CORREIA DOURADO" ;
+    :temDataNascimento "2000-7-17"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33195> rdf:type :Aluno ;
+    :temID "A33195" ;
+    :temNome "MIGUEL PINTO DE SOUSA MARQUES" ;
+    :temDataNascimento "2004-10-18"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22695> rdf:type :Aluno ;
+    :temID "A22695" ;
+    :temNome "NANCY DO SAMEIRO SILVERIO LAVANDEIRA" ;
+    :temDataNascimento "2004-6-23"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38216> rdf:type :Aluno ;
+    :temID "A38216" ;
+    :temNome "NELSON DE SOUSA E SILVA" ;
+    :temDataNascimento "1997-4-19"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33196> rdf:type :Aluno ;
+    :temID "A33196" ;
+    :temNome "NELSON FILIPE COELHO DE MOURA SOUSA" ;
+    :temDataNascimento "2004-5-24"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33420> rdf:type :Aluno ;
+    :temID "A33420" ;
+    :temNome "NELSON LEANDRO BARBOSA CARNEIRO" ;
+    :temDataNascimento "2000-11-19"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38195> rdf:type :Aluno ;
+    :temID "A38195" ;
+    :temNome "NELSON TAVARES CUNHA" ;
+    :temDataNascimento "2005-10-12"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33727> rdf:type :Aluno ;
+    :temID "A33727" ;
+    :temNome "NUNO FILIPE ANTUNES DA SILVA" ;
+    :temDataNascimento "1999-5-13"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33127> rdf:type :Aluno ;
+    :temID "A33127" ;
+    :temNome "NUNO FILIPE MAGALHAES SANTOS" ;
+    :temDataNascimento "1996-10-16"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A24784> rdf:type :Aluno ;
+    :temID "A24784" ;
+    :temNome "NUNO FILIPE MARQUES MOREIRA RIBEIRO" ;
+    :temDataNascimento "1996-12-9"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38208> rdf:type :Aluno ;
+    :temID "A38208" ;
+    :temNome "NUNO GONCALO BETTENCOURT DA CRUZ CORREIA" ;
+    :temDataNascimento "1997-8-27"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38203> rdf:type :Aluno ;
+    :temID "A38203" ;
+    :temNome "NUNO JORGE FERREIRA GUIMARAES" ;
+    :temDataNascimento "2003-6-23"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A15619> rdf:type :Aluno ;
+    :temID "A15619" ;
+    :temNome "NUNO MIGUEL AFONSO CARVALHO DE MOURA" ;
+    :temDataNascimento "2002-5-18"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35355> rdf:type :Aluno ;
+    :temID "A35355" ;
+    :temNome "NUNO MIGUEL MACHADO ALVES COSTA" ;
+    :temDataNascimento "1998-5-8"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33437> rdf:type :Aluno ;
+    :temID "A33437" ;
+    :temNome "NUNO MIGUEL MARQUES GOMES" ;
+    :temDataNascimento "2000-10-3"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22701> rdf:type :Aluno ;
+    :temID "A22701" ;
+    :temNome "NUNO MIGUEL MARTINS CASANOVA" ;
+    :temDataNascimento "1996-1-17"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27645> rdf:type :Aluno ;
+    :temID "A27645" ;
+    :temNome "NUNO MIGUEL OLIVEIRA SILVA" ;
+    :temDataNascimento "1997-7-13"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29282> rdf:type :Aluno ;
+    :temID "A29282" ;
+    :temNome "NUNO VIRIATO MACEDO FERREIRA DE CARVALHO" ;
+    :temDataNascimento "1999-11-1"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38120> rdf:type :Aluno ;
+    :temID "A38120" ;
+    :temNome "OCTAVIO DAVID DA CONCEICAO JACINTO" ;
+    :temDataNascimento "2004-10-17"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A14539> rdf:type :Aluno ;
+    :temID "A14539" ;
+    :temNome "ORLANDO JORGE GONCALVES PINTO" ;
+    :temDataNascimento "2000-10-6"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33280> rdf:type :Aluno ;
+    :temID "A33280" ;
+    :temNome "PAULO BRUNO DA SILVA VIDES FERNANDES" ;
+    :temDataNascimento "2001-2-7"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A34508> rdf:type :Aluno ;
+    :temID "A34508" ;
+    :temNome "PAULO CESAR ALMEIDA DE SA" ;
+    :temDataNascimento "2004-9-6"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27577> rdf:type :Aluno ;
+    :temID "A27577" ;
+    :temNome "PAULO CESAR DE CARVALHO LOPES" ;
+    :temDataNascimento "1996-7-18"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39938> rdf:type :Aluno ;
+    :temID "A39938" ;
+    :temNome "PAULO CESAR ROMANEL RODRIGUES" ;
+    :temDataNascimento "1997-11-15"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33204> rdf:type :Aluno ;
+    :temID "A33204" ;
+    :temNome "PAULO EDUARDO MIRANDA CAMPOS" ;
+    :temDataNascimento "2003-2-23"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38122> rdf:type :Aluno ;
+    :temID "A38122" ;
+    :temNome "PAULO JORGE ASSIS DE SOUSA" ;
+    :temDataNascimento "2002-10-10"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35357> rdf:type :Aluno ;
+    :temID "A35357" ;
+    :temNome "PAULO JORGE FERNANDES DE SOUSA" ;
+    :temDataNascimento "2004-5-18"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30238> rdf:type :Aluno ;
+    :temID "A30238" ;
+    :temNome "PAULO JORGE SOARES MENDES" ;
+    :temDataNascimento "2003-11-21"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39407> rdf:type :Aluno ;
+    :temID "A39407" ;
+    :temNome "PAULO MANUEL RIBEIRO NOVAIS" ;
+    :temDataNascimento "2003-12-24"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33209> rdf:type :Aluno ;
+    :temID "A33209" ;
+    :temNome "PAULO MIGUEL SA MORAIS PIRES" ;
+    :temDataNascimento "2001-8-7"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36476> rdf:type :Aluno ;
+    :temID "A36476" ;
+    :temNome "PEDRO ALEXANDRE FERREIRA VILACA" ;
+    :temDataNascimento "1998-10-27"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35360> rdf:type :Aluno ;
+    :temID "A35360" ;
+    :temNome "PEDRO DANIEL FERREIRA DE CARVALHO" ;
+    :temDataNascimento "2001-9-24"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A21711> rdf:type :Aluno ;
+    :temID "A21711" ;
+    :temNome "PEDRO DAVID ALVES MARTINHO" ;
+    :temDataNascimento "1999-9-27"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A32652> rdf:type :Aluno ;
+    :temID "A32652" ;
+    :temNome "PEDRO DUARTE CARDOSO LOPES" ;
+    :temDataNascimento "2005-9-18"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36969> rdf:type :Aluno ;
+    :temID "A36969" ;
+    :temNome "PEDRO EMANUEL FERNANDES LOPES" ;
+    :temDataNascimento "2005-6-16"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33213> rdf:type :Aluno ;
+    :temID "A33213" ;
+    :temNome "PEDRO GUIMARAES DE FREITAS" ;
+    :temDataNascimento "2005-4-14"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30241> rdf:type :Aluno ;
+    :temID "A30241" ;
+    :temNome "PEDRO HENRIQUE GONCALVES GERAZ RODRIGUES" ;
+    :temDataNascimento "1999-6-1"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33214> rdf:type :Aluno ;
+    :temID "A33214" ;
+    :temNome "PEDRO JORGE OSORIO MARINHO OLIVEIRA" ;
+    :temDataNascimento "1996-10-6"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38116> rdf:type :Aluno ;
+    :temID "A38116" ;
+    :temNome "PEDRO JOSE MARTINS FARIA" ;
+    :temDataNascimento "2003-3-11"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35144> rdf:type :Aluno ;
+    :temID "A35144" ;
+    :temNome "PEDRO MANUEL DE AMORIM MAGALHAES" ;
+    :temDataNascimento "1997-8-25"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38118> rdf:type :Aluno ;
+    :temID "A38118" ;
+    :temNome "PEDRO MANUEL LOPES PATRICIO" ;
+    :temDataNascimento "2000-9-21"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27658> rdf:type :Aluno ;
+    :temID "A27658" ;
+    :temNome "PEDRO MIGUEL ARAUJO MOTA LOPES" ;
+    :temDataNascimento "2002-1-20"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Corne Inglês#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS3#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38159> rdf:type :Aluno ;
+    :temID "A38159" ;
+    :temNome "PEDRO MIGUEL AZEVEDO DE OLIVEIRA" ;
+    :temDataNascimento "2005-6-21"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35363> rdf:type :Aluno ;
+    :temID "A35363" ;
+    :temNome "PEDRO MIGUEL DA SILVA ARAUJO" ;
+    :temDataNascimento "1998-2-14"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A25383> rdf:type :Aluno ;
+    :temID "A25383" ;
+    :temNome "PEDRO MIGUEL MARTINS FERNANDES" ;
+    :temDataNascimento "1997-3-8"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35364> rdf:type :Aluno ;
+    :temID "A35364" ;
+    :temNome "PEDRO MIGUEL MEIRA DAS NEVES" ;
+    :temDataNascimento "2000-8-16"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33524> rdf:type :Aluno ;
+    :temID "A33524" ;
+    :temNome "PEDRO MIGUEL PAES MACHADO" ;
+    :temDataNascimento "2004-10-3"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35855> rdf:type :Aluno ;
+    :temID "A35855" ;
+    :temNome "PEDRO MIGUEL PINTO RIBEIRO" ;
+    :temDataNascimento "2001-3-24"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38147> rdf:type :Aluno ;
+    :temID "A38147" ;
+    :temNome "PEDRO MIGUEL RAMOS MADEIRA" ;
+    :temDataNascimento "1997-3-22"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33281> rdf:type :Aluno ;
+    :temID "A33281" ;
+    :temNome "PEDRO MIGUEL SOARES PINTO" ;
+    :temDataNascimento "2000-2-11"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30243> rdf:type :Aluno ;
+    :temID "A30243" ;
+    :temNome "PEDRO MIGUEL VEIGA DA SILVA" ;
+    :temDataNascimento "1999-2-24"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trombone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB15#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38149> rdf:type :Aluno ;
+    :temID "A38149" ;
+    :temNome "PEDRO SILVESTRE MENESES MAGALHAES COELHO" ;
+    :temDataNascimento "2003-2-8"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38160> rdf:type :Aluno ;
+    :temID "A38160" ;
+    :temNome "PEDRO TIAGO AMORIM DE BRITO" ;
+    :temDataNascimento "2002-3-7"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33082> rdf:type :Aluno ;
+    :temID "A33082" ;
+    :temNome "PEDRO TIAGO DIAS GONCALVES" ;
+    :temDataNascimento "1996-4-27"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38154> rdf:type :Aluno ;
+    :temID "A38154" ;
+    :temNome "RAFAEL DE CASTRO CARREIRA" ;
+    :temDataNascimento "1998-1-22"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38158> rdf:type :Aluno ;
+    :temID "A38158" ;
+    :temNome "RAUL GRACIANO OLIVEIRA RODRIGUES" ;
+    :temDataNascimento "1996-7-1"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30015> rdf:type :Aluno ;
+    :temID "A30015" ;
+    :temNome "RENATO CESAR ALMEIDA FIGUEIREDO" ;
+    :temDataNascimento "2002-10-17"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39509> rdf:type :Aluno ;
+    :temID "A39509" ;
+    :temNome "RICARDO ANDRE RODRIGUES AFONSO" ;
+    :temDataNascimento "1997-4-17"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38153> rdf:type :Aluno ;
+    :temID "A38153" ;
+    :temNome "RICARDO ARAUJO CARVALHO VILACA MOREIRA" ;
+    :temDataNascimento "1996-2-22"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38151> rdf:type :Aluno ;
+    :temID "A38151" ;
+    :temNome "RICARDO FERNANDO LIRA DE MESQUITA LACHADO" ;
+    :temDataNascimento "2001-4-5"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38129> rdf:type :Aluno ;
+    :temID "A38129" ;
+    :temNome "RICARDO GOMES DE FARIA" ;
+    :temDataNascimento "2003-10-8"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33222> rdf:type :Aluno ;
+    :temID "A33222" ;
+    :temNome "RICARDO JORGE ALMEIDA DE MAGALHAES" ;
+    :temDataNascimento "1997-7-10"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38130> rdf:type :Aluno ;
+    :temID "A38130" ;
+    :temNome "RICARDO JORGE RODRIGUES SEPULVEDA MARQUES" ;
+    :temDataNascimento "2004-10-21"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A34435> rdf:type :Aluno ;
+    :temID "A34435" ;
+    :temNome "RICARDO JOSE FERREIRA DIAS DE OLIVEIRA" ;
+    :temDataNascimento "1998-8-15"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A19550> rdf:type :Aluno ;
+    :temID "A19550" ;
+    :temNome "RICARDO MANUEL RODRIGUES DE OLIVEIRA DIMAS" ;
+    :temDataNascimento "1997-11-5"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35366> rdf:type :Aluno ;
+    :temID "A35366" ;
+    :temNome "RICARDO MANUEL VIANA MAGALHAES" ;
+    :temDataNascimento "1996-6-14"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A22721> rdf:type :Aluno ;
+    :temID "A22721" ;
+    :temNome "RICARDO NUNO MOREIRA CASTILHO FERREIRA LOPES" ;
+    :temDataNascimento "2003-12-20"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30254> rdf:type :Aluno ;
+    :temID "A30254" ;
+    :temNome "ROQUE MANUEL DE CARVALHO TEIXEIRA" ;
+    :temDataNascimento "2001-2-27"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A18770> rdf:type :Aluno ;
+    :temID "A18770" ;
+    :temNome "ROSA ALEXANDRA AZEVEDO GUIMARAES" ;
+    :temDataNascimento "2004-9-2"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38141> rdf:type :Aluno ;
+    :temID "A38141" ;
+    :temNome "RUBEN FILIPE CARDOSO DA FONSECA" ;
+    :temDataNascimento "1999-10-20"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38200> rdf:type :Aluno ;
+    :temID "A38200" ;
+    :temNome "RUI ALEXANDRE SERRANO DE MOURA" ;
+    :temDataNascimento "2003-12-14"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36764> rdf:type :Aluno ;
+    :temID "A36764" ;
+    :temNome "RUI ANDRE FERREIRA SILVA" ;
+    :temDataNascimento "2002-12-8"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38135> rdf:type :Aluno ;
+    :temID "A38135" ;
+    :temNome "RUI ANDRE LEITE RIBEIRO" ;
+    :temDataNascimento "1997-10-2"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39944> rdf:type :Aluno ;
+    :temID "A39944" ;
+    :temNome "RUI ANTONIO PEIXOTO DE ABREU" ;
+    :temDataNascimento "2000-5-25"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38148> rdf:type :Aluno ;
+    :temID "A38148" ;
+    :temNome "RUI DOMINGOS GUIMARAES SALGADO" ;
+    :temDataNascimento "1997-4-27"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33228> rdf:type :Aluno ;
+    :temID "A33228" ;
+    :temNome "RUI FILIPE BARROS TAVARES" ;
+    :temDataNascimento "1996-6-20"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38146> rdf:type :Aluno ;
+    :temID "A38146" ;
+    :temNome "RUI FILIPE TORRES ALEXANDRE" ;
+    :temDataNascimento "1999-6-8"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38908> rdf:type :Aluno ;
+    :temID "A38908" ;
+    :temNome "RUI JORGE DE OLIVEIRA PEREIRA" ;
+    :temDataNascimento "1996-5-7"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35371> rdf:type :Aluno ;
+    :temID "A35371" ;
+    :temNome "RUI JORGE GUIMARAES MACHADO RODRIGUES VALENTE" ;
+    :temDataNascimento "1999-7-7"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A24875> rdf:type :Aluno ;
+    :temID "A24875" ;
+    :temNome "RUI MANUEL COUTO DA SILVA" ;
+    :temDataNascimento "2005-11-23"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A37029> rdf:type :Aluno ;
+    :temID "A37029" ;
+    :temNome "RUI MANUEL DA SILVA PEREIRA NEIVA" ;
+    :temDataNascimento "1996-12-16"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33229> rdf:type :Aluno ;
+    :temID "A33229" ;
+    :temNome "RUI MANUEL SILVA OLIVEIRA" ;
+    :temDataNascimento "2000-1-19"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38119> rdf:type :Aluno ;
+    :temID "A38119" ;
+    :temNome "RUI MIGUEL DA SILVA ABREU" ;
+    :temDataNascimento "2005-6-5"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A24876> rdf:type :Aluno ;
+    :temID "A24876" ;
+    :temNome "RUI MIGUEL ESCUDEIRO DA COSTA AGUIAR" ;
+    :temDataNascimento "2000-4-19"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29253> rdf:type :Aluno ;
+    :temID "A29253" ;
+    :temNome "RUI MIGUEL FERNANDES VARELA" ;
+    :temDataNascimento "1997-2-6"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A25868> rdf:type :Aluno ;
+    :temID "A25868" ;
+    :temNome "RUI MIGUEL MORAIS LOPES" ;
+    :temDataNascimento "2001-5-10"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A28735> rdf:type :Aluno ;
+    :temID "A28735" ;
+    :temNome "RUI MIGUEL NOVAIS CASTRO" ;
+    :temDataNascimento "2002-6-6"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27673> rdf:type :Aluno ;
+    :temID "A27673" ;
+    :temNome "RUI MIGUEL PEREIRA OLIVEIRA" ;
+    :temDataNascimento "1999-8-13"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35372> rdf:type :Aluno ;
+    :temID "A35372" ;
+    :temNome "RUI PEDRO ANDIAS DUARTE" ;
+    :temDataNascimento "1997-12-7"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33234> rdf:type :Aluno ;
+    :temID "A33234" ;
+    :temNome "SANDRA MARIA OLIVEIRA CARVALHO" ;
+    :temDataNascimento "2000-10-15"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36765> rdf:type :Aluno ;
+    :temID "A36765" ;
+    :temNome "SANDRA MARIA TELES FEIO ALMEIDA FAZENDEIRO" ;
+    :temDataNascimento "1997-4-18"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38173> rdf:type :Aluno ;
+    :temID "A38173" ;
+    :temNome "SEBASTIAO MONTEIRO SIMOES" ;
+    :temDataNascimento "1997-12-1"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Orgão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB11#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38183> rdf:type :Aluno ;
+    :temID "A38183" ;
+    :temNome "SERGIO BRANCO AMORIM" ;
+    :temDataNascimento "1998-1-22"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33235> rdf:type :Aluno ;
+    :temID "A33235" ;
+    :temNome "SERGIO DE ALMEIDA PAIVA" ;
+    :temDataNascimento "1997-10-25"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39343> rdf:type :Aluno ;
+    :temID "A39343" ;
+    :temNome "SERGIO FELICIANO FERREIRA JACOME" ;
+    :temDataNascimento "2002-10-23"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violoncelo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS19#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39410> rdf:type :Aluno ;
+    :temID "A39410" ;
+    :temNome "SERGIO FILIPE PEREIRA DA FELICIDADE" ;
+    :temDataNascimento "1996-5-26"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35374> rdf:type :Aluno ;
+    :temID "A35374" ;
+    :temNome "SERGIO MANUEL PEREIRA BARREIRO" ;
+    :temDataNascimento "2000-9-21"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Contrabaixo#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB2#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A24885> rdf:type :Aluno ;
+    :temID "A24885" ;
+    :temNome "SERGIO MANUEL RUIVO CARDOSO" ;
+    :temDataNascimento "1999-3-2"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Harpa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB9#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38177> rdf:type :Aluno ;
+    :temID "A38177" ;
+    :temNome "SERGIO NUNO CLARO GOMES" ;
+    :temDataNascimento "1999-8-21"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35375> rdf:type :Aluno ;
+    :temID "A35375" ;
+    :temNome "SERGIO RICARDO TEIXEIRA ANDIAS MIRANDA" ;
+    :temDataNascimento "2005-5-25"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Violino#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS20#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38181> rdf:type :Aluno ;
+    :temID "A38181" ;
+    :temNome "SOFIA DA CONCEICAO ALVES MENDES" ;
+    :temDataNascimento "2003-6-21"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33238> rdf:type :Aluno ;
+    :temID "A33238" ;
+    :temNome "SONIA ANDREA GARRIDO DE SA EIRAS" ;
+    :temDataNascimento "2004-7-20"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Tuba#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS18#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35376> rdf:type :Aluno ;
+    :temID "A35376" ;
+    :temNome "TELMA DE FATIMA PIRES DE SA" ;
+    :temDataNascimento "1997-3-23"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38131> rdf:type :Aluno ;
+    :temID "A38131" ;
+    :temNome "TIAGO DANIEL CERQUEIRA BOTELHO DA SILVA" ;
+    :temDataNascimento "2004-4-15"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33240> rdf:type :Aluno ;
+    :temID "A33240" ;
+    :temNome "TIAGO JORGE GOMES DA SILVA ARAUJO" ;
+    :temDataNascimento "1997-4-9"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38144> rdf:type :Aluno ;
+    :temID "A38144" ;
+    :temNome "TIAGO LEANDRO DE CASTRO RIBEIRO" ;
+    :temDataNascimento "1999-12-24"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38145> rdf:type :Aluno ;
+    :temID "A38145" ;
+    :temNome "TIAGO MIGUEL SOARES FERNANDES" ;
+    :temDataNascimento "2003-12-8"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Percussão#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS12#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A29254> rdf:type :Aluno ;
+    :temID "A29254" ;
+    :temNome "TITO JOSE FERREIRA DE SOUSA LOPES" ;
+    :temDataNascimento "2002-5-3"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Guitarra#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS8#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35418> rdf:type :Aluno ;
+    :temID "A35418" ;
+    :temNome "VALTER MIGUEL OLIVEIRA VILAR" ;
+    :temDataNascimento "1997-7-11"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38127> rdf:type :Aluno ;
+    :temID "A38127" ;
+    :temNome "VANESSA ALZIRA ABRUNHOSA CARNEIRO DE CASTRO FIDALGO" ;
+    :temDataNascimento "2003-11-21"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fagote#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS5#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33282> rdf:type :Aluno ;
+    :temID "A33282" ;
+    :temNome "VIRGILIO ABRANTES VINHA" ;
+    :temDataNascimento "2000-5-4"^^xsd:date ;
+    :temAnoDeCurso "2"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB17#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A30266> rdf:type :Aluno ;
+    :temID "A30266" ;
+    :temNome "VITOR CARLOS TEIXEIRA PIMENTEL" ;
+    :temDataNascimento "2002-2-7"^^xsd:date ;
+    :temAnoDeCurso "7"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35377> rdf:type :Aluno ;
+    :temID "A35377" ;
+    :temNome "VITOR DA COSTA PINHEIRO" ;
+    :temDataNascimento "1996-3-11"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38192> rdf:type :Aluno ;
+    :temID "A38192" ;
+    :temNome "VITOR HUGO DA SILVA NOGUEIRA" ;
+    :temDataNascimento "2005-12-4"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A35378> rdf:type :Aluno ;
+    :temID "A35378" ;
+    :temNome "VITOR HUGO PEREIRA DA SILVA MOREIRA" ;
+    :temDataNascimento "1998-3-23"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Trompa#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB16#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A38182> rdf:type :Aluno ;
+    :temID "A38182" ;
+    :temNome "VITOR MANUEL ALVES DA ROCHA" ;
+    :temDataNascimento "1998-5-2"^^xsd:date ;
+    :temAnoDeCurso "4"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A36773> rdf:type :Aluno ;
+    :temID "A36773" ;
+    :temNome "VITOR MANUEL CARVALHO RODRIGUES" ;
+    :temDataNascimento "2004-6-28"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Bandolim#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS22#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A39671> rdf:type :Aluno ;
+    :temID "A39671" ;
+    :temNome "VITOR MANUEL PINTO LOPES" ;
+    :temDataNascimento "1999-8-9"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Piano#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB13#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27648> rdf:type :Aluno ;
+    :temID "A27648" ;
+    :temNome "NUNO RAMOS MATOS" ;
+    :temDataNascimento "1996-12-24"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Eufónio#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB4#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A27620> rdf:type :Aluno ;
+    :temID "A27620" ;
+    :temNome "JOAO ANDRE FARIA LOPES" ;
+    :temDataNascimento "1997-6-6"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Viola de Arco#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB21#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A33199> rdf:type :Aluno ;
+    :temID "A33199" ;
+    :temNome "NUNO FILIPE MENDES PEREIRA" ;
+    :temDataNascimento "1999-3-16"^^xsd:date ;
+    :temAnoDeCurso "1"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Oboé#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB10#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/AE-939> rdf:type :Aluno ;
+    :temID "AE-939" ;
+    :temNome "Jorge Gonzalez y Hurtado de Mendoza" ;
+    :temDataNascimento "2003-6-27"^^xsd:date ;
+    :temAnoDeCurso "6"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Clarinete#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS1#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/AE-922> rdf:type :Aluno ;
+    :temID "AE-922" ;
+    :temNome "Brais Hernandez Facal" ;
+    :temDataNascimento "2005-9-17"^^xsd:date ;
+    :temAnoDeCurso "8"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Flauta#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CS6#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/AE-907> rdf:type :Aluno ;
+    :temID "AE-907" ;
+    :temNome "Oscar Lopez Garcia" ;
+    :temDataNascimento "2000-4-20"^^xsd:date ;
+    :temAnoDeCurso "3"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Fliscorne#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB7#> .
+
+
+<http://rpcw.di.uminho.pt/2024/musica/Aluno/A4140> rdf:type :Aluno ;
+    :temID "A4140" ;
+    :temNome "José Carlos Ramalho" ;
+    :temDataNascimento "1967-02-01"^^xsd:date ;
+    :temAnoDeCurso "5"^^xsd:integer ;
+    :tocaInstrumento <http://rpcw.di.uminho.pt/2024/musica/Instrumento/Saxofone#> ;
+    :estaInscrito <http://rpcw.di.uminho.pt/2024/musica/Curso/CB14#> .
